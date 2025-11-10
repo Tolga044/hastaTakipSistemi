@@ -43,7 +43,6 @@ Kullanıcı giriş ve kayıt işlemleri, hasta ekleme, güncelleme, silme, liste
 | 🏠 Ana Sayfa | <img width="1055" height="631" alt="Ekran Görüntüsü (14)" src="https://github.com/user-attachments/assets/a3261c2f-48b9-478e-b169-329af14be7e5" /> |
 | 📊 İstatistikler | <img width="1021" height="476" alt="Ekran Görüntüsü (15)" src="https://github.com/user-attachments/assets/ab2e5634-7467-418b-8bfd-c5df9a3593f7" /> |
 
-> 📁 Görselleri projenin kök dizininde `images` klasörüne koyup yukarıdaki bağlantıları kullanabilirsin.
 
 ---
 
