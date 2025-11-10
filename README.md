@@ -53,8 +53,7 @@ Kullanıcı giriş ve kayıt işlemleri, hasta ekleme, güncelleme, silme, liste
 - C#  
 - SQL Server (Microsoft SQL)  
 - Entity Framework  
-- Windows Forms / WPF veya MVC (hangisini kullandıysan yaz)  
-- LINQ  
+- Windows Forms 
 
 ---
 
